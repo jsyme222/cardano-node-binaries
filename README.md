@@ -33,10 +33,10 @@ wget -O cardano-8_1_2-aarch64-static-musl-ghc_928.zip https://github.com/armada-
 
 #### SanchoNet/Preprod/Preview
 
-[8.4.0-pre with ghc-9.6.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_4_0_pre-aarch64-static-musl-ghc_962.zip?raw=true)
+[8.5.0-pre with ghc-9.6.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_5_0_pre-aarch64-static-musl-ghc_962.zip?raw=true)
 
 ```
-wget -O cardano-8_4_0_pre-aarch64-static-musl-ghc_962.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_4_0_pre-aarch64-static-musl-ghc_962.zip?raw=true
+wget -O cardano-8_5_0_pre-aarch64-static-musl-ghc_962.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_5_0_pre-aarch64-static-musl-ghc_962.zip?raw=true
 ```
 
 ##

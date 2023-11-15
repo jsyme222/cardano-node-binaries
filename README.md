@@ -17,13 +17,13 @@ Thank you to [PGWAD](https://armada-alliance.com/stake-pools/7e45a7e6ab3afcf9912
 ### Static build (Compatible for all arm based linux. Recommended)
 #### Mainnet/Preprod/Preview
 
-[8.1.2 with ghc-8.10.7](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true)
+[8.1.2 with ghc-8.10.7](https://github.com/jsyme222/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true)
 
 ```
 wget -O 8_1_2.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/8_1_2.zip?raw=true
 ```
 
-[8.1.2 with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true)
+[8.1.2 with ghc-9.2.8](https://github.com/jsyme222/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true)
 
 ```
 wget -O cardano-8_1_2-aarch64-static-musl-ghc_928.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_1_2-aarch64-static-musl-ghc_928.zip?raw=true
@@ -33,7 +33,7 @@ wget -O cardano-8_1_2-aarch64-static-musl-ghc_928.zip https://github.com/armada-
 
 #### SanchoNet/Preprod/Preview
 
-[8.6.0-pre with ghc-9.6.3](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_6_0_pre-aarch64-static-musl-ghc_963.zip?raw=true)
+[8.6.0-pre with ghc-9.6.3](https://github.com/jsyme222/cardano-node-binaries/blob/main/static-binaries/cardano-8_6_0_pre-aarch64-static-musl-ghc_963.zip?raw=true)
 
 ```
 wget -O cardano-8_6_0_pre-aarch64-static-musl-ghc_963.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-8_6_0_pre-aarch64-static-musl-ghc_963.zip?raw=true
@@ -43,19 +43,19 @@ wget -O cardano-8_6_0_pre-aarch64-static-musl-ghc_963.zip https://github.com/arm
 
 ### Additional static binaries
 
-[bech32 1.1.4](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4.zip?raw=true)
+[bech32 1.1.4](https://github.com/jsyme222/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4.zip?raw=true)
 
 ```
 wget -O bech32-1_1_4.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4.zip?raw=true
 ```
 
-[bech32 1.1.4.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4_1.zip?raw=true)
+[bech32 1.1.4.1](https://github.com/jsyme222/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4_1.zip?raw=true)
 
 ```
 wget -O bech32-1_1_4_1.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/bech32/bech32-1_1_4_1.zip?raw=true
 ```
 
-[cardano-wallet-v2023-07-18](https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-musl.zip?raw=true)
+[cardano-wallet-v2023-07-18](https://github.com/jsyme222/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-musl.zip?raw=true)
 
 ```
 wget -O cardano-wallet-v2023-07-18-aarch64-musl.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/static-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-musl.zip?raw=true
@@ -66,13 +66,13 @@ wget -O cardano-wallet-v2023-07-18-aarch64-musl.zip https://github.com/armada-al
 ### Dynamic build (Ubuntu 20.04 LTS and above. Requires [Libsodium, SECP256K1 and libssl.so.1.1](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.0.0/README.MD). Please rebuild libsodium using updated instruction for cardano-node/cli 8.0.0.)
 #### Mainnet/Preprod/Preview
 
-[8.1.2 with ghc-8.10.7](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004.zip?raw=true)
+[8.1.2 with ghc-8.10.7](https://github.com/jsyme222/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004.zip?raw=true)
 
 ```
 wget -O cardano-8_1_2-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004.zip?raw=true
 ```
 
-[8.1.2 with ghc-9.2.8](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip?raw=true)
+[8.1.2 with ghc-9.2.8](https://github.com/jsyme222/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip?raw=true)
 
 ```
 wget -O cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/8.1.2/cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip?raw=true
@@ -82,13 +82,13 @@ wget -O cardano-8_1_2-aarch64-ubuntu_2004-ghc_928.zip https://github.com/armada-
 
 ### Additional dynamic binaries
 
-[cardano-submit-api-3.1.2](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.6/cardano-submit-api.zip?raw=true) (Built with cardano-node-1.35.6)
+[cardano-submit-api-3.1.2](https://github.com/jsyme222/cardano-node-binaries/blob/main/dynamic-binaries/1.35.6/cardano-submit-api.zip?raw=true) (Built with cardano-node-1.35.6)
 
 ```
 wget -O cardano-submit-api.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/1.35.6/cardano-submit-api.zip?raw=true
 ```
 
-[cardano-wallet-v2023-07-18](https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-ubuntu_2004.zip?raw=true)
+[cardano-wallet-v2023-07-18](https://github.com/jsyme222/cardano-node-binaries/blob/main/dynamic-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-ubuntu_2004.zip?raw=true)
 
 ```
 wget -O cardano-wallet-v2023-07-18-aarch64-ubuntu_2004.zip https://github.com/armada-alliance/cardano-node-binaries/blob/main/dynamic-binaries/cardano-wallet/cardano-wallet-v2023-07-18-aarch64-ubuntu_2004.zip?raw=true
